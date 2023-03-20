@@ -5,5 +5,7 @@
 
 메일 : huni00807@pusan.ac.kr
 
+언어 : C++(코테용), html, css, js, js react
+
 안녕하세요. 좋은 하루 되세요
 
