@@ -1,11 +1,18 @@
 # ssigner
-소속 : 부산대학교 공과대학 정보컴퓨터공학부 3학년
+소속
 
-블로그 : https://ssigner.tistory.com/
+부산대학교 공과대학 정보컴퓨터공학부 3학년
 
-메일 : huni00807@pusan.ac.kr
+블로그(Blog)
 
-언어 : 
+https://ssigner.tistory.com/
+
+메일
+
+huni00807@pusan.ac.kr
+
+언어
+
 ![C/C++](https://img.shields.io/badge/-C/C++-00427E?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=Csharp&logoColor=white)
 ![html5](https://img.shields.io/badge/-HTML5-E14921?style=flat&logo=html5&logoColor=white)
