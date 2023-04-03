@@ -5,7 +5,13 @@
 
 메일 : huni00807@pusan.ac.kr
 
-언어 : C++(코테용), html, css, js, js react, U#
+언어 : 
+![C/C++](https://img.shields.io/badge/-C/C++-00427E?style=for-the-badge&logo=c%2B%2B)
+![html5](https://img.shields.io/badge/-HTML5-E14921?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/-CSS3-006EBA?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+U#
 
 프론트엔드 진로 희망
 
