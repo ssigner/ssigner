@@ -20,8 +20,7 @@ huni00807@pusan.ac.kr
 ![javascript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
 
-
-프론트엔드 진로 희망
+아직 진로를 못정했어요
 
 안녕하세요. 좋은 하루 되세요
 
