@@ -11,6 +11,10 @@ https://ssigner.tistory.com/
 
 huni00807@pusan.ac.kr
 
+### About Me
+
+https://ssigner.github.io/
+
 ### 언어
 
 ![C/C++](https://img.shields.io/badge/-C/C++-00427E?style=flat&logo=c%2B%2B)
@@ -20,7 +24,7 @@ huni00807@pusan.ac.kr
 ![javascript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
 
-아직 진로를 못정했어요
+주니어 게임 개발자
 
 안녕하세요. 좋은 하루 되세요
 
