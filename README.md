@@ -15,6 +15,11 @@ huni00807@pusan.ac.kr
 
 https://ssigner.github.io/
 
+### Project
+
+픽셀디펜스(2023.12.15 ~) https://store.onstove.com/ko/games/2681
+CJ대한통운 미래기술 챌린지 Box.size(2023.07.03 ~ 2023.09.07) https://github.com/Box-size
+
 ### 언어
 
 ![C/C++](https://img.shields.io/badge/-C/C++-00427E?style=flat&logo=c%2B%2B)
