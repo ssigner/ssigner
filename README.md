@@ -23,7 +23,7 @@ CJ대한통운 미래기술 챌린지 Box.size(2023.07.03 ~ 2023.09.07) https://
 
 NoDaeChul(2024.06) https://github.com/hunsy9/NoDaechul
 
-### 언어
+### Skills
 
 ![C/C++](https://img.shields.io/badge/-C/C++-00427E?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=Csharp&logoColor=white)
