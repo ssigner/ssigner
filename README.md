@@ -7,7 +7,7 @@
 
 ### 블로그(Blog)
 
-https://ssigner.tistory.com/
+https://ssigner.notion.site/be135b64b6e14a1dab3df0da39ad0d33
 
 ### 메일(Mail)
 
